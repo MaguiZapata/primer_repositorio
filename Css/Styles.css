@@ -15,4 +15,11 @@ p{
     text-align: justify;
     border: solid darkblue;
     width: 300px;
+    background-color: lightblue;
+}
+div{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
 }
