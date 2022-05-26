@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: antiquewhite;
+}
+h1{
+    color: darkblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: x-large;text-align: center;
+}
+p{
+    text-align: justify;
+    border: solid darkblue;
+    width: 300px;
+}
